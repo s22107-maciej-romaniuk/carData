@@ -1,0 +1,26 @@
+[
+    {
+        "rodzaj": "osobowy",
+        "marka": "opel",
+        "rokProdukcji": 2012,
+        "kolor": "niebieski"
+    },
+    {
+        "rodzaj": "osobowy",
+        "marka": "ford",
+        "rokProdukcji": 2015,
+        "kolor": "zielony"
+    },
+    {
+        "rodzaj": "ciężarowy",
+        "marka": "volksvagen",
+        "rokProdukcji": 2005,
+        "kolor": "czarny"
+    },
+    {
+        "rodzaj": "ciężarowy",
+        "marka": "mercedes",
+        "rokProdukcji": 2023,
+        "kolor": "czerwony"
+    }
+]
